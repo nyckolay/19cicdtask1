@@ -1,4 +1,4 @@
-name: Java CI with Maven
+name: 19 CI/CD Task 1
 
 on:
   push:
